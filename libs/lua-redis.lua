@@ -1125,7 +1125,7 @@ redis.commands = {
                     }
                 end
                 return structured
-            end
+            end 
 
             return reply
         end

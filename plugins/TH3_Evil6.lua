@@ -31,9 +31,9 @@ local S = [[
 ⚫️ صوره: 👈 (لتحويل الملصق الى صوره)
 ⚫️ ملصق: 👈 (لتحويل الصوره الى ملصق)
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-🤖 DEV ⚔ : @TH3_Evil
-🤖 channel ⚔  : @TH3Evil_iq
-🤖 DEV  Bot ⚔ : @sajjad_aliraqi_bott
+-🔧 DEV 👹: @TH3_Evil
+-🔧 channel 👹: @TH3Evil_iq
+-🔧 DEV BOT 👹: @sajjad_aliraqi_bot
  ]]
 reply_msg(reply_id, S, ok_cb, false)
 end

@@ -22,11 +22,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 🔸➖🔹➖🔸➖🔹➖
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/blackops97/TH3_Evil.git
 🔸➖🔹➖🔸➖🔹➖
 ورهأ خلي    
 
-cd TH3BOSS
+cd TH3_Evil
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي 
 🔸➖🔹➖🔸➖🔹➖
@@ -44,11 +44,11 @@ chmod +x launch.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@TH3_Evil
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@sajjad_aliraqi_bot
 قـنـاة الـسـورس
-@llDEV1ll
+@TH3Evil_iq
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -71,7 +71,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3_BOSS.git && cd TH3_BOSS && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/blackops97/TH3_Evil.git && cd TH3_Evil && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 🔸➖🔹➖🔸➖🔹➖
@@ -89,17 +89,17 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
  لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 
 ```
   sudo_users = {
-    226861861,
+    113644348,
     0,
     YourID
   }
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev :   [@TH3_Evil](https://telegram.me/TH3_Evil)
+Dev_BOT :  [@sajjad_aliraqi_bot](https://telegram.me/sajjad_aliraqi_bot)
+Dev_Channel : [@TH3Evil_iq](https://telegram.me/TH3Evil_iq)
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
-(https://telegram.me/TH3BOSS)
+(https://telegram.me/TH3_Evil)

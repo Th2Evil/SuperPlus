@@ -31,9 +31,9 @@ local S = [[♻️ اوامر حماية المجموعه ♻️️
 ✴️ ايدي: 👈 (لعرض ايدي المجموعه)
 ✴️ ايدي بالرد 👈 (لعرض ايدي العضو)
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
-🤖 DEV ⚔ : @TH3_Evil
-🤖 channel ⚔  : @TH3Evil_iq
-🤖 DEV  Bot ⚔ : @sajjad_aliraqi_bot
+-🔧 DEV 👹: @TH3_Evil
+-🔧 channel 👹: @TH3Evil_iq
+-🔧 DEV BOT 👹: @sajjad_aliraqi_bot
 ]]
 reply_msg(reply_id, S, ok_cb, false) 
 end

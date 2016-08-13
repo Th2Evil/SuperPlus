@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "🔺Welcome to TH3_Evil v5.1 For more information Subscribe to the channel @TH3Evil_iqn\n https://github.com/blackops97/TH3_Evil\n\n🔺Dev @TH3_Evil\n\n🔺 Dev Bot @sajjad_aliraqi\n\n🔺Dev channel @TH3Evil_iq",
+about_text = "🔸Welcome to TH3_Evil v5.0 For more information Subscribe to the channel @TH3Evil_iqn\n https://github.com/blackops97/TH3_Evil\n\n🔸Dev @TH3_Evil\n\n🔸 Dev Bot @sajjad_aliraqi\n\n🔸Dev channel @TH3Evil_iq",
   enabled_plugins = {
  "admin",
     "all",

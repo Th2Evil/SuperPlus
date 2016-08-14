@@ -209,7 +209,7 @@ local function run(msg, matches)
   text = text..'🔸 اسم المجموعه : '..msg.to.title..'\n'
      text = text..'🆔 ايدي المجموعه : '..msg.to.id
     end
-  text = text..'🔧 #الـمطـور : SAJAD_iq\n🔧 #حساب المطور : @TH3_Evil'
+  text = text..'🔧 #الـمطـور : sajjad hussien\n🔧 #حساب المطور : @TH3_Evil'
     return send_msg(receiver, text, ok_cb, true)
     end
 

@@ -97,7 +97,7 @@ local reply_id = msg['id']
 		a=a+1
 		result_text = result_text..a.."- "..result[a].."\n\n"
 	end
-	return result_text.."🌐▶️〰️〰️〰️〰️〰️◀️🌐\n®️™️ dev 🔧: @TH3_Evil\n®️™️ channel🔧: @TH3Evil_iq\n®™ bot dev🔧:   @sajjad_aliraqi_bot"
+	return result_text.."🌐▶️〰️〰️〰️〰️〰️◀️🌐\n-🔧 DEV 👹: @TH3_Evil\n-🔧 channel 👹: @TH3Evil_iq\n-🔧 DEV BOT 👹: @sajjad_aliraqi_bot"
 end
 
 return {

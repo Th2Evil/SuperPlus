@@ -32,7 +32,7 @@ about_text = "🔸Welcome to TH3_Evil v5.0 For more information Subscribe to the
     "msg_checks",
     "newgroup",
     "@TH3_Evil",
-    "TH3-Evil",
+    "TH3_Evil",
     "TH3_Evil1",
     "TH3_Evil2",
     "TH3_Evil3",

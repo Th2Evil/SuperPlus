@@ -1,3 +1,12 @@
+--[[ 
+▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
+▀▄ ▄▀                                       ▀▄ ▄▀ 
+▀▄ ▄▀       BY waleed-khalid-ali              ▀▄ ▄▀ 
+▀▄ ▄▀ BY waleed_khalid (@Th2_BOOS)          ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY @Th2_BOOS        ▀▄ ▄▀ 
+▀▄ ▄▀          HELP  : مساعدة              ▀▄ ▄▀ 
+▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
+--]]
 do 
 
 function run(msg, matches) 

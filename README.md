@@ -1,15 +1,13 @@
- 💢 DEV TH3_Evil 💢
-كيفية تنصيب بوت ايذل 2016
+ᴅᵉ√ 💢@Bedo_Prog vs @ @Th2_BOOS 💢
+كيفية تنصيب بوت سوبر بلاس 2016
  
-```sh
+تـــاااابع!! 
 
  Let's install the bot.
 افتـح ترمنـــأل وخلي   
-
 sudo apt-get update 
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي  
-
 redis-server
 🔸➖🔹➖🔸➖🔹➖
 تركه مفتوح    
@@ -17,38 +15,35 @@ redis-server
 وفتح ترمنال ثاني وخلي    
 🔸➖🔹➖🔸➖🔹➖
 ورهأ خلي    
-
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
 🔸➖🔹➖🔸➖🔹➖
 ورأهأَ خلي  
-
-git clone https://github.com/blackops97/TH3_Evil.git
+git clone https://github.com/Th2Evil/SuperPlus.git
 🔸➖🔹➖🔸➖🔹➖
 ورهأ خلي    
-
-cd TH3_Evil
+cd SuperPlus
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي 
 🔸➖🔹➖🔸➖🔹➖
 chmod +x launch.sh
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي 
-
 ./launch.sh install
 🔸➖🔹➖🔸➖🔹➖
 ورهأَ خلي  
-
 ./launch.sh 
 🔸➖🔹➖🔸➖🔹➖
 يطلب رقم خلي رقم البوت 
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3_Evil
+@Th2_BOOS
+VS
+@Bedo_Prog
 واذا محظور تعال على بوت التواصل
-@sajjad_aliraqi_bot
+@leloobot
 قـنـاة الـسـورس
-@TH3Evil_iq
+@Queenlove20
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -71,7 +66,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/blackops97/TH3_Evil.git && cd TH3_Evil && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/Th2Evil/SuperPlus.git && cd SuperPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 🔸➖🔹➖🔸➖🔹➖
@@ -89,17 +84,10 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
  لتصبح مطور بوتك غير الايدي خاص كونفج بايديك 
 ```
   sudo_users = {
-    113644348,
+    230410522,
     0,
     YourID
   }
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
-
-Dev :   [@TH3_Evil](https://telegram.me/TH3_Evil)
-Dev_BOT :  [@sajjad_aliraqi_bot](https://telegram.me/sajjad_aliraqi_bot)
-Dev_Channel : [@TH3Evil_iq](https://telegram.me/TH3Evil_iq)
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
-You have an idea to develop Alsoors or bot prefer 🏿️
-
-(https://telegram.me/TH3_Evil)
+@Th_BOOS

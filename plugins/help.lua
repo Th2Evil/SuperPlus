@@ -10,7 +10,7 @@
 do 
 
 function mohammed(msg, matches) 
-local reply_id = msg[ id ] 
+local reply_id = msg['id'] 
 local S = [[ 
 ₮еℓе Ꝓℓᵿś☤
 ➠➪➸➠➪➸➠➪➸➠➪➸

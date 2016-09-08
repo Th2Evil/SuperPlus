@@ -1,46 +1,31 @@
 --[[ 
-▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀          
-▀▄ ▄▀                                      ▀▄ ▄▀ 
-▀▄ ▄▀    BY MOHAMMED HISHAM                ▀▄ ▄▀ 
-▀▄ ▄▀   BY MOHAMMEDHISHAM (@TH3BOSS)      ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY MOHAMMED HISHAM       ▀▄ ▄▀   
-▀▄ ▄▀         ME   :  موقعي               ▀▄ ▄▀ 
-▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀
---]]
+▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
+▀▄ ▄▀                                       ▀▄ ▄▀ 
+▀▄ ▄▀       BY waleed-khalid-ali              ▀▄ ▄▀ 
+▀▄ ▄▀ BY waleed_khalid (@Th2_BOOS)          ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY @Th2_BOOS        ▀▄ ▄▀ 
+▀▄ ▄▀          Me  : موقعـــَــــــــي             ▀▄ ▄▀ 
+▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
+--]] 
 do
 
-local function mohammedboss(msg, matches)
-  if matches[1] == 'موقعي' then
+local function run(msg, matches)
+  if matches[1] ==  موقعي  then
     if is_sudo(msg) then
     send_document(get_receiver(msg), "./files/me/sudo.webp", ok_cb, false)
-      return "▫️انت المطور مالتي 🙂❤️\n▫️ اسمك :"..msg.from.first_name.."\n" 
-   .."▫️ايديك :("..msg.from.id..")\n" 
-   .."▫️ايدي الكروب :("..msg.to.id..")\n" 
-   .."▫️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
+      return  انت المطور مالتي 😻🙊 .. \n\n .. 🔶MSG BY telegram.me/ ..msg.from.username.. \n 
     elseif is_admin1(msg) then
-    send_document(get_receiver(msg), "./files/me/support.webp", ok_cb, false)
-      return "▫️انت اداري  🙂💜\n▫️اسمك :"..msg.from.first_name.."\n" 
-   .."▫️ايديك :("..msg.from.id..")\n" 
-   .."▫️ايدي الكروب :("..msg.to.id..")\n" 
-   .."▫️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
+    send_document(get_receiver(msg), "./files/me/admin.webp", ok_cb, false)
+      return  ادمن ادمن بلكروب 🌚  .. \n\n .. 🔶MSG BY telegram.me/ ..msg.from.username.. \n 
     elseif is_owner(msg) then
-    send_document(get_receiver(msg), "./files/me/owner.webp", ok_cb, false)
-      return "▫️انت مدير المجموعه 🌝❤️\n▫️ اسمك :"..msg.from.first_name.."\n" 
-   .."▫️ايديك :("..msg.from.id..")\n" 
-   .."▫️ايدي الكروب :("..msg.to.id..")\n" 
-   .."▫️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
+    send_document(get_receiver(msg), "./files/me/leader.webp", ok_cb, false)
+      return   نت مشرف الكروب🐸💭 .. \n\n .. 🔶MSG BY telegram.me/ ..msg.from.username.. \n 
     elseif is_momod(msg) then
     send_document(get_receiver(msg), "./files/me/moderator.webp", ok_cb, false)
-      return "▫️انت ادمن 🌝✨ \n▫️ اسمك :"..msg.from.first_name.."\n" 
-   .."▫️ايديك :("..msg.from.id..")\n" 
-   .."▫️ايدي الكروب :("..msg.to.id..")\n" 
-   .."▫️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
-          else
+      return  انت طايح حظك😹 .. \n\n .. 🔶MSG BY telegram.me/ ..msg.from.username.. \n 
+    else
     send_document(get_receiver(msg), "./files/me/member.webp", ok_cb, false)
-      return "▫️انت مجرد عضو 🙂😂\n▫️ اسمك :"..msg.from.first_name.."\n" 
-   .."▫️ايديك :("..msg.from.id..")\n" 
-   .."▫️ايدي الكروب :("..msg.to.id..")\n" 
-   .."▫️معرفك :(@"..(msg.from.username or "لا يوجد")..")\n" 
+      return  انت عضـو لا تلح زايــد .  \n\n .. 🔶MSG BY telegram.me/ ..msg.from.username.. \n 
     end
   end
 end
@@ -50,6 +35,6 @@ return {
     "^(موقعي)$",
     "^(موقعي)$"
     },
-  run = mohammedboss
+  run = run
 }
 end

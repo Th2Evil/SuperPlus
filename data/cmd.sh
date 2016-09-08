@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+
 
 memTotal_b=`free -b |grep Mem |awk '{print $2}'`
 memFree_b=`free -b |grep Mem |awk '{print $4}'`
@@ -19,18 +19,20 @@ memUsed_m=$(($memTotal_m-$memFree_m-$memBuffer_m-$memCache_m))
 
 memUsedPrc=$((($memUsed_b*100)/$memTotal_b))
 
-echo "🌐Memory : $memTotal_m MB"
-echo "〰〰〰〰🔸"
-echo "🌐Used : $memUsed_m MB - $memUsedPrc% used!"
-echo "〰〰〰〰🔸"
-echo "🌐Total : $memTotal_b"
-echo "〰〰〰〰🔸"
-echo '🌐CPU Usage : '"$CPUPer"'%'
-echo "〰〰〰〰🔸"
-echo '🌐Hdd : '"$hdd"'%'
-echo "〰〰〰〰🔸"
-echo '🌐Processes : '"$ProcessCnt"
-echo "〰〰〰〰🔸"
-echo '🌐Uptime : '"$uptime"
-echo "〰〰〰〰🔸"
-echo "🔰 TH3_Evil 🔰"
+echo "1💯Memory: CRITICAL Total: $memTotal_m MB"
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo "2💯Memory Used: $memUsed_m MB - $memUsedPrc% used!"
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo "3💯Total : $memTotal_b"
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo '4💯CPU Usage : '"$CPUPer"'%'
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo '5💯Hdd : '"$hdd"'%'
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo '6💯Processes : '"$ProcessCnt"
+echo "💯〰〰〰〰〰〰〰〰〰🃏"
+echo '7💯Uptime : '"$uptime"
+echo "🃏〰〰〰〰〰〰〰〰〰🃏"
+echo "💯-Đєⱴ💀: @TH3BOSS"
+echo "💯-Đєⱴ ฿๏ͳ💀: @ll60Kllbot"
+echo "💯-Đєⱴ Ϲḫ₳ͷͷєℓ💀: @llDEV1ll"

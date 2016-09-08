@@ -1,12 +1,12 @@
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
 ▀▄ ▄▀                                       ▀▄ ▄▀ 
-▀▄ ▄▀       BY MOHAMMED HISHAM              ▀▄ ▄▀ 
-▀▄ ▄▀ BY MOHAMMEDHISHAM (@TH3BOSS)          ▀▄ ▄▀ 
-▀▄ ▄▀ JUST WRITED BY MOHAMMED HISHAM        ▀▄ ▄▀ 
-▀▄ ▄▀          help              ▀▄ ▄▀ 
+▀▄ ▄▀       BY waleed-khalid-ali              ▀▄ ▄▀ 
+▀▄ ▄▀ BY waleed_khalid (@Th2_BOOS)          ▀▄ ▄▀ 
+▀▄ ▄▀ JUST WRITED BY @Th2_BOOS        ▀▄ ▄▀ 
+▀▄ ▄▀          HELP5  : 5مساعدة              ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
---]] 
+--]]  
 do 
 
 function mohammed(msg, matches) 

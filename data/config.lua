@@ -40,7 +40,7 @@ do local _ = {
      "onservice",
      "owners",
      "plugins",
-     "ar-plus",
+     "ar-Plus",
      "replay",
      "res",
      "run",

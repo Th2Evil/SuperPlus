@@ -1,11 +1,11 @@
+
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-      by member oscar team @PXPP3 
-    -----OSCAR TEAM 
-      please join to Channel Oscar Team @oscarteam 
-    Plugin ; lock audio with warn 
-    tnx @Dev_2 for help :)
+      by member team Plus @Th2_BOOS
+    -----Plus team
+      please join to Channel Team Plus
+    Plugin ; lock audio with warn
 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 

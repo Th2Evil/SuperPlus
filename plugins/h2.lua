@@ -9,7 +9,7 @@
 --]]  
 do 
 
-function mohammed(msg, matches) 
+function LELOO(msg, matches) 
 local reply_id = msg['id'] 
 local S = [[ 
 💡 أوامـــر المجـموعة العامــة

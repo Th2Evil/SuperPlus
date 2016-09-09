@@ -1,5 +1,5 @@
 do local _ = {
-  about_text = "▫️Welcome to TH3BOSS V6 For more information Subscribe to the channel @queenlove20 https:github.com/Th2Evil/SuperPlus.git",
+  about_text = "▫️Welcome to @Th2_BOOS v1 For more information Subscribe to the channel @queenlove20 https:github.com/Th2Evil/SuperPlus.git",
   enabled_plugins = {
   "addsudo",
      "admin",

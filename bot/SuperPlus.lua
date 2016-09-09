@@ -118,7 +118,7 @@ end
 function pre_process_msg(msg)
   for name,plugin in pairs(plugins) do
     if plugin.pre_process and msg then
-      print('Preprocess', name)
+      print('فحص الملف', name)
       msg = plugin.pre_process(msg)
     end
   end
@@ -157,7 +157,7 @@ function match_plugin(plugin, plugin_name, msg)
   for k, pattern in pairs(plugin.patterns) do
     local matches = match_pattern(pattern, msg.text)
     if matches then
-      print("msg matches: ", pattern)
+      print("قراءة الملف: ", pattern)
 
       if is_plugin_disabled_on_chat(plugin_name, receiver) then
         return nil
@@ -678,7 +678,7 @@ end
 -- Enable plugins in config.json
 function load_plugins()
   for k, v in pairs(_config.enabled_plugins) do
-    print("Loading plugin", v)
+    print("جاري التشغيل", v)
 
     local ok, err =  pcall(function()
       local t = loadfile("plugins/"..v..'.lua')()

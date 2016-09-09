@@ -1,12 +1,14 @@
 --[[ 
-$ :) 
--- - ( #MASCO_ماسكو ) - -- 
-$ :) 
--- - ( @IQ_ABS ) - -- 
-$ :) 
---Channel-( @DEV_PROX )-- 
-$ :) 
-]]-- 
+▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
+▀▄ ▄▀                                      ▀▄ ▄▀ 
+      by member team Plus @Th2_BOOS
+    -----Plus team
+      please join to Channel Team Plus
+    Plugin ; 
+
+▀▄ ▄▀                                      ▀▄ ▄▀ 
+▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
+--]]
 do 
 function run(msg, matches) 
 local reply_id = msg[ id ] 

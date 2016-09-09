@@ -44,7 +44,7 @@ do local _ = {
      "replay",
      "res",
      "run",
-     "serverinfo",
+     "Serverinfo",
      "set",
      "setwelcome",
      "short_link",

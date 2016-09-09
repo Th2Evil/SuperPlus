@@ -9,7 +9,7 @@
 --]]
 do 
 
-function mohammed(msg, matches) 
+function LELOO(msg, matches) 
 local reply_id = msg['id'] 
 local S = [[ 
 اوامـر الحـــ‼️ــمايه بالتحذيـ🚷ـر
@@ -40,6 +40,6 @@ usage = "Help list",
 patterns = { 
 "^(م5)$",
 }, 
-run = mohammed 
+run = LELOO 
 } 
 end

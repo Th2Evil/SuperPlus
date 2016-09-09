@@ -1,18 +1,10 @@
---[[ 
-$ :) 
--- - ( #MASCO_ماسكو ) - -- 
-$ :) 
--- - ( @IQ_ABS ) - -- 
-$ :) 
---Channel-( @DEV_PROX )-- 
-$ :) 
-]]-- 
 do 
+  
 function run(msg, matches) 
 local reply_id = msg['id'] 
 
 local info = '🈷 - ٱيـۧډيک : '..msg.from.id..'\n'
-..'🈶 - مۘعرفک : @'..msg.from.username..'\n'
+..'🈶 - مۘعرفک : telegram.me/'..msg.from.username..'\n'
 ..'🈸 - ٱسـۧمـک ٲلٲول : '..(msg.from.first_name or '')..'\n'
 ..'🈸 - ٱسـۧمـک ٲلثـآنيَ : '..(msg.from.lastname or '')..'\n'
 ..'🈚️ - ٱيډي ٱڵمجـمۄعة : '..msg.to.id..'\n'

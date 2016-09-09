@@ -55,6 +55,5 @@ return {
     pre_process = pre_process 
 } 
 
--- By @PXPP3
---Oscar Team
+-- By @Th2_BOOS
 end 

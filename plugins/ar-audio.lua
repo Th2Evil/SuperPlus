@@ -1,15 +1,14 @@
-
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
-      by member oscar team @PXPP3
-    -----OSCAR TEAM
-      please join to Channel Oscar Team @oscarteam
+      by member team Plus @Th2_BOOS
+    -----Plus team
+      please join to Channel Team Plus
     Plugin ; lock audio with warn
 
 ▀▄ ▄▀                                      ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
---]] 
+--]]
 do 
 
 local function pre_process(msg) 

@@ -70,6 +70,7 @@ do local _ = {
      "h6",
      "ar-help",
      "ar-virson",
+     "ar-id",
 
   },
   help_text = "",

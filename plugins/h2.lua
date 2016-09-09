@@ -1,19 +1,26 @@
+
+
+
+
+
+
+
 --[[ 
 ▀▄ ▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀▄▀▄▄▀▀▄▄▀▀▄▄▀▀▄▄▀▀ 
 ▀▄ ▄▀                                       ▀▄ ▄▀ 
 ▀▄ ▄▀       BY waleed-khalid-ali              ▀▄ ▄▀ 
-▀▄ ▄▀ BY waleed-khalid (@Th2_BOOS)          ▀▄ ▄▀ 
+▀▄ ▄▀ BY waleed_khalid (@Th2_BOOS)          ▀▄ ▄▀ 
 ▀▄ ▄▀ JUST WRITED BY @Th2_BOOS        ▀▄ ▄▀ 
 ▀▄ ▄▀          HELP2  : 2مساعدة              ▀▄ ▄▀ 
 ▀▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀▄▄▀▀▄▄▀▄▄▀▀ 
---]] 
+--]]  
 do 
 
 function mohammed(msg, matches) 
-local reply_id = msg[ id ] 
+local reply_id = msg['id'] 
 local S = [[ 
 💡 أوامـــر المجـموعة العامــة
-   ➪ ➠➪➸➪➸➠➪➸➠➪➸➠
+➪➠➪➸➪➸➠➪➸➠➪➸➠
 ▫️ضع صورة :: لوضع وصف
 ▫️ضع قوانين :: لوضع قوانين
 ▫️ضع معرف :: لوضع معرف
@@ -48,8 +55,6 @@ usage = "Help list",
 patterns = { 
 "^(م2)$", 
 }, 
-run = mohammed 
+run = WALEED 
 } 
-end 
-
-
+end

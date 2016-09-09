@@ -47,6 +47,6 @@ usage = "Help list",
 patterns = { 
 "^(م1)$", 
 }, 
-run = mohammed 
+run = LELOO 
 } 
 end

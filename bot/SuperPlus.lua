@@ -282,8 +282,6 @@ function create_config( )
      "ar-help",
      "ar-virson",
      "ar-id",
-",
-
     },
     sudo_users = {226861861,137348382},--Sudo users
     moderation = {data = 'data/moderation.json'},
